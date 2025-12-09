@@ -146,7 +146,7 @@ Cada capítulo incluye:
 ## 📝 Notas Importantes
 
 > [!IMPORTANT]
-> Este libro está basado en información actualizada a diciembre de 2024. Los servicios de AWS y modelos de IA evolucionan constantemente. Verifica la documentación oficial para información más reciente.
+> Este libro está basado en información actualizada a diciembre de 2025. Los servicios de AWS y modelos de IA evolucionan constantemente. Verifica la documentación oficial para información más reciente.
 
 > [!TIP]
 > La práctica hands-on es fundamental. No solo leas, experimenta con los servicios de AWS mientras estudias.
